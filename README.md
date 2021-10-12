@@ -8,5 +8,5 @@ Assignmnet 13, in this assignment I finished the code that was given to me. By a
     <li>dotenv</li>
     <li>Express</li>
     <li>mysql2</li>
-    </ul>
+    </ul> <p>
 ## Video Walkthroughs
