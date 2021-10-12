@@ -11,5 +11,5 @@ Assignmnet 13, in this assignment I finished the code that was given to me. By a
     </ul> <p>
   <strong>Video Walkthrough</strong><p>
 Run Server: https://watch.screencastify.com/v/cAYEDqhKKfgNlEXOcyWQ<p>
-Node w/mysql: 
+Node w/mysql:  https://watch.screencastify.com/v/Nn7F2K11Vz9TE8aeRV8N
 
