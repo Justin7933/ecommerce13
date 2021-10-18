@@ -12,5 +12,5 @@ Assignmnet 13, in this assignment I finished the code that was given to me. By a
   <strong>Video Walkthrough</strong><p>
 Run Server: https://watch.screencastify.com/v/cAYEDqhKKfgNlEXOcyWQ<p>
 Node w/mysql:  https://watch.screencastify.com/v/Nn7F2K11Vz9TE8aeRV8N<p>
-Postman: https://watch.screencastify.com/v/eYBvURJ6JtV4Ag4RFbED
+Postman: https://watch.screencastify.com/v/eYBvURJ6JtV4Ag4RFbED<p>
 
